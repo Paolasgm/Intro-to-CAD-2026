@@ -66994,7 +66994,7 @@
 		(uuid "3c07b407-59aa-45b3-b2b2-fa6de2120476")
 		(effects
 			(font
-				(face "Open Sans")
+				(face "Noto Sans")
 				(size 3 3)
 				(thickness 0.15)
 			)

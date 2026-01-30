@@ -5,10 +5,4 @@
 	(uuid "ea0c559e-3bae-46d5-a508-0445335e2a4b")
 	(paper "A4")
 	(lib_symbols)
-	(sheet_instances
-		(path "/"
-			(page "1")
-		)
-	)
-	(embedded_fonts no)
 )

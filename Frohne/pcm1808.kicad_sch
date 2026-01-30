@@ -4443,11 +4443,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "0cbd651c-f6dd-4e08-b26c-cdfe3fbb8cee")
+			(uuid "b0ccfdf1-0c8d-4ca6-ad53-452fb7891179")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
 					(reference "TP1")
 					(unit 1)
 				)
@@ -4464,7 +4464,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "13de872b-8493-4a55-b8f1-fda196d4d4cb")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR016"
 			(at 215.9 111.76 0)
 			(effects
 				(font
@@ -4509,12 +4509,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "7f323e23-a53c-4efa-ba68-b5af2174af98")
+			(uuid "9589b8d7-203a-4f92-8a18-392f70029605")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
-					(reference "#PWR023")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -4727,14 +4727,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "22a57504-b0e1-4160-b956-ee05e043cd88")
+			(uuid "94706d08-73dd-4e0c-a911-32c2ade06337")
 		)
 		(pin "1"
-			(uuid "173d9881-6eb5-4570-8ecd-f91ae3095ef8")
+			(uuid "a255916e-31de-4fa4-a253-02417b0170e6")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
 					(reference "R22")
 					(unit 1)
 				)
@@ -4814,17 +4814,17 @@
 			)
 		)
 		(pin "R"
-			(uuid "d7f5918e-0437-451c-991f-f6a74ccf7454")
+			(uuid "14330fa2-0a15-4f24-96c5-3d1b21d01ea2")
 		)
 		(pin "S"
-			(uuid "72fb5456-6026-4f77-b176-7900c2cb1b09")
+			(uuid "0a5c48bf-c914-4bb0-8d53-29bd6c84b1e6")
 		)
 		(pin "T"
-			(uuid "a040d489-5459-4e2e-b420-92ae3e42a4bb")
+			(uuid "32f05d48-d882-40a4-ad81-256465f13ad3")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
 					(reference "J1")
 					(unit 1)
 				)
@@ -4841,7 +4841,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1988280c-95c6-4528-ba8f-a9b1e09cef66")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR05"
 			(at 144.78 73.66 0)
 			(effects
 				(font
@@ -4886,12 +4886,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "7c6a5184-522e-4fc1-bd6d-b1774930a71b")
+			(uuid "dc457e45-4d17-4efb-bc69-356b8481c9b7")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
-					(reference "#PWR014")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -4964,14 +4964,14 @@
 			)
 		)
 		(pin "1"
-			(uuid "d154e62f-3c1e-4f56-a6e4-ed293d325b6d")
+			(uuid "5f2ae120-e908-4783-a111-7f20a0064030")
 		)
 		(pin "2"
-			(uuid "d761da0a-29a4-4fe5-bfc4-24b8a5593fe7")
+			(uuid "6530c416-654c-4636-818d-b8439b79c2a6")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
 					(reference "JP19")
 					(unit 1)
 				)
@@ -4988,7 +4988,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1eedf3b0-d900-4a5f-bf24-010b2e2e5906")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR08"
 			(at 152.4 109.22 0)
 			(effects
 				(font
@@ -5033,12 +5033,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "85ecde1a-d533-49c4-9bc0-666600f5ae24")
+			(uuid "280a1c15-f565-43b4-845c-5a81b698b9cf")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
-					(reference "#PWR01")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -5225,14 +5225,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "c0935867-3e44-4fbf-9833-dc8a30536831")
+			(uuid "bfc4749b-29b2-46bb-877f-0ef834991f48")
 		)
 		(pin "1"
-			(uuid "e9d4df72-5b8f-4376-b8be-29e0ea2b736c")
+			(uuid "c83974bc-1ab5-45db-a56d-cc27b6c6a3bc")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
 					(reference "C13")
 					(unit 1)
 				)
@@ -5447,14 +5447,14 @@
 			)
 		)
 		(pin "1"
-			(uuid "eacfb311-6dd7-426d-a7b9-59036ad58512")
+			(uuid "861f852b-c951-4f75-924b-7ceb07724b3e")
 		)
 		(pin "2"
-			(uuid "8b4588aa-b5a0-442a-8d3a-340f9fe46a5f")
+			(uuid "9445811d-9927-46ee-82a1-38a5463ba987")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
 					(reference "R3")
 					(unit 1)
 				)
@@ -5668,14 +5668,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "d346f885-a542-4354-8e05-d47dbf5404be")
+			(uuid "9f6db908-284a-4179-95c3-6ee63a8ddfef")
 		)
 		(pin "1"
-			(uuid "babdf4e5-d14b-4ab6-8c5a-c3a2c9b77060")
+			(uuid "76f08689-3e2e-4cbf-b995-75c9f45f0b34")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
 					(reference "R18")
 					(unit 1)
 				)
@@ -5873,14 +5873,14 @@
 			)
 		)
 		(pin "1"
-			(uuid "2bb8695e-20ee-4207-bd1b-62ac11692073")
+			(uuid "90a3b913-f7f4-4e05-acae-01a07cf40898")
 		)
 		(pin "2"
-			(uuid "de56dcd0-a7ba-4cbc-8281-99c2be07e0ba")
+			(uuid "0ec5e4ee-bec3-4497-8949-3344b48fc110")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
 					(reference "C44")
 					(unit 1)
 				)
@@ -6069,14 +6069,14 @@
 			)
 		)
 		(pin "1"
-			(uuid "0948d4a9-0caa-4ce9-acc0-e22decfe4ad3")
+			(uuid "13a159a5-8aff-470f-9362-3ed831a30d6e")
 		)
 		(pin "2"
-			(uuid "44105373-3b47-4f18-a28b-432c011d9f93")
+			(uuid "9e41ca4c-62a2-4b5b-aaac-573f7b9c3088")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
 					(reference "C6")
 					(unit 1)
 				)
@@ -6093,7 +6093,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "541aebc9-2a66-4a96-975e-6e273c25168c")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR010"
 			(at 153.67 96.52 0)
 			(effects
 				(font
@@ -6138,12 +6138,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "ca2b302c-e504-4c23-8219-f5edf103c28e")
+			(uuid "c3674b77-9cf0-43ea-94bd-75a84ae17c71")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
-					(reference "#PWR017")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -6356,14 +6356,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "fd3d079f-9302-44d3-804c-dbd85012767c")
+			(uuid "e330e612-0967-4499-b38a-04692d5e02cb")
 		)
 		(pin "1"
-			(uuid "31dfe35b-fc4f-4f7c-8209-23ff4b0c8a56")
+			(uuid "cd2974e6-d664-4de9-8089-c5d05b5fa6ba")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
 					(reference "R19")
 					(unit 1)
 				)
@@ -6379,7 +6379,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5be03d7a-58e3-465e-b99c-4fb390f2f760")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR015"
 			(at 209.55 114.3 0)
 			(effects
 				(font
@@ -6424,12 +6424,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "d98fa4b3-9663-485b-9273-6c9bf492e19c")
+			(uuid "32c45ccb-dada-43e8-abb3-76dc413ec6e6")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
-					(reference "#PWR022")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -6445,7 +6445,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5faed0f3-4b05-4c72-a378-c80fcfea1369")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR06"
 			(at 147.32 96.52 0)
 			(effects
 				(font
@@ -6490,12 +6490,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "d562fa81-ebd1-49a0-b954-5805baee296d")
+			(uuid "8e1dfd9b-aeb4-44c1-9439-f827be35a962")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
-					(reference "#PWR015")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -6692,14 +6692,14 @@
 			)
 		)
 		(pin "1"
-			(uuid "436adfb4-b869-47c1-8cf1-72580883e418")
+			(uuid "f47fa99f-2834-4129-bd66-eca03d303f7a")
 		)
 		(pin "2"
-			(uuid "1540fb87-18e3-484a-9dbd-e7b9940fd392")
+			(uuid "cfe976d8-4933-4c30-afe2-3d7637c48e67")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
 					(reference "C9")
 					(unit 1)
 				)
@@ -6717,7 +6717,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6a9931e7-aa43-4302-a547-96d1c7b8971e")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR01"
 			(at 63.5 97.79 0)
 			(effects
 				(font
@@ -6762,12 +6762,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "5f11b752-24bc-41fa-aba7-b0a180e2d4a9")
+			(uuid "d148eabf-45b4-4ed9-acf9-82e8264797b7")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
-					(reference "#PWR04")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -6782,7 +6782,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6d09e1de-2e1d-4f88-9b76-792b50af925a")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR09"
 			(at 152.4 123.19 0)
 			(effects
 				(font
@@ -6827,12 +6827,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "daed71f1-a594-44f4-8448-d6f7ac03f433")
+			(uuid "3729676b-151e-4f78-acd0-8361404be9cd")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
-					(reference "#PWR02")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -7045,14 +7045,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "00da7e6c-1b7f-4267-91cc-f983cad1bd5e")
+			(uuid "14cd40c4-03e8-4377-89f0-6d08fd595771")
 		)
 		(pin "1"
-			(uuid "6d5efe5a-8921-4307-8c8c-c7ec686bc7cd")
+			(uuid "99551a04-ef89-486a-97d2-aa9e2579c2e5")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
 					(reference "R17")
 					(unit 1)
 				)
@@ -7250,14 +7250,14 @@
 			)
 		)
 		(pin "1"
-			(uuid "8734c4dd-8471-4c45-96ea-6a4fde801f43")
+			(uuid "d26b33e0-c3f8-4ecb-a175-25a9ba7ed24c")
 		)
 		(pin "2"
-			(uuid "64ae4d01-c4bc-4472-be92-cd904e36dd5d")
+			(uuid "b2ecc79a-60c0-4f92-8b83-279d8f142b39")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
 					(reference "C8")
 					(unit 1)
 				)
@@ -7331,14 +7331,14 @@
 			)
 		)
 		(pin "1"
-			(uuid "241f4239-00de-4efa-8988-013d6e2fd752")
+			(uuid "06d26723-1640-429a-b819-6c0462a137e2")
 		)
 		(pin "2"
-			(uuid "e7978e0e-e854-476c-b58b-25713b60d630")
+			(uuid "db1b61e7-3d05-415d-a64d-71011a76e9ae")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
 					(reference "JP18")
 					(unit 1)
 				)
@@ -7355,7 +7355,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "883a5a6f-1937-4cfc-b3ae-9301691057c5")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR013"
 			(at 167.64 66.04 0)
 			(effects
 				(font
@@ -7400,12 +7400,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "06309d27-50be-403a-bbc4-f8baf9b1def7")
+			(uuid "7cfec2e2-9685-44a7-ade1-aa3efc1d267b")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
-					(reference "#PWR020")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -7420,7 +7420,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "911a9c8f-a533-432c-a7d1-1c926a63d1cb")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR014"
 			(at 167.64 99.06 0)
 			(effects
 				(font
@@ -7465,12 +7465,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "83a50baf-a137-45e7-9903-b3accf59bc5c")
+			(uuid "d04066cd-bc15-4ee7-8703-c096cc02501b")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
-					(reference "#PWR08")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -7657,14 +7657,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "a8e345a0-e46a-4aca-aae1-558c136e3782")
+			(uuid "7a5aca8b-ace8-4c91-a315-5dca458e3cf8")
 		)
 		(pin "1"
-			(uuid "6e7bc73f-8f07-4d49-9898-a973f60e3ff7")
+			(uuid "833b93f4-ace0-4dae-86ec-9628e47c1da3")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
 					(reference "C10")
 					(unit 1)
 				)
@@ -7681,7 +7681,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a0b19710-902d-4017-9092-8207cd69bf0b")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR011"
 			(at 161.29 66.04 0)
 			(effects
 				(font
@@ -7726,12 +7726,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "fb627099-3967-4262-a55e-d7c4fa56c595")
+			(uuid "b6fd74ed-500f-45d8-aaa3-e9b4bde3f533")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
-					(reference "#PWR018")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -7802,20 +7802,20 @@
 			)
 		)
 		(pin "3"
-			(uuid "56a587aa-c271-4ed7-b629-b17d64c5b26d")
+			(uuid "b12e7d4d-2b63-4de9-b82b-87e0c4eed481")
 		)
 		(pin "1"
-			(uuid "357399bb-cb62-46ae-b897-71e6c9cf0345")
+			(uuid "fdcacf98-8fef-4925-a0bf-94b3e2d57845")
 		)
 		(pin "2"
-			(uuid "ee05416d-b63b-4fba-8278-bb441c0cf17f")
+			(uuid "86c08ad2-efa3-494c-8116-df90bf3323dc")
 		)
 		(pin "4"
-			(uuid "a1360862-2e86-4fe4-9086-4569176db117")
+			(uuid "01be3a3a-6172-4e80-8abf-eac9fe9d85b2")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
 					(reference "X2")
 					(unit 1)
 				)
@@ -7832,7 +7832,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a3fdbe07-72c0-461e-a58b-1e006a373488")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR04"
 			(at 144.78 63.5 0)
 			(effects
 				(font
@@ -7877,12 +7877,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "0e1385ac-2092-47b2-b574-6652951ce28c")
+			(uuid "82941f0a-8e73-4da8-a2f1-7c98cf637fb3")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
-					(reference "#PWR013")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -8066,14 +8066,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "2226e627-325d-461d-b0d8-ad49d711f41b")
+			(uuid "a5ef3cb5-5a2b-4176-a4c2-f7291a921843")
 		)
 		(pin "1"
-			(uuid "e46aed2f-0198-45b0-bed6-3540dd75c763")
+			(uuid "518707f7-c657-47ba-8242-54c0ee7e5a5b")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
 					(reference "C3")
 					(unit 1)
 				)
@@ -8258,14 +8258,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "5afcbe05-9a94-4799-b8c3-e4eef1df8441")
+			(uuid "e69d23d4-8a9c-4401-9aaf-792cbce95158")
 		)
 		(pin "1"
-			(uuid "6aad5c82-305e-49ef-8597-db75702f4b2f")
+			(uuid "bde74615-3daf-4b46-874d-17e9ebb80bcd")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
 					(reference "C4")
 					(unit 1)
 				)
@@ -8283,7 +8283,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b0287ee2-5a95-4c87-ab87-74e9992301f7")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR02"
 			(at 124.46 74.93 0)
 			(effects
 				(font
@@ -8328,12 +8328,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "a8122270-08e2-46f5-adc7-065630732e85")
+			(uuid "b394910a-9777-488b-93e2-c1b79cd0a465")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
-					(reference "#PWR011")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -8521,14 +8521,14 @@
 			)
 		)
 		(pin "1"
-			(uuid "9b1a76d6-9f5b-4b01-9723-5f57df12299a")
+			(uuid "a235d9f9-c7e5-4fec-b302-e53b7248fb96")
 		)
 		(pin "2"
-			(uuid "07cc88f8-751d-44ce-bad1-ba4454d860d2")
+			(uuid "a7102daa-30c9-45b5-99f4-2f25110d8399")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
 					(reference "C7")
 					(unit 1)
 				)
@@ -8601,11 +8601,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "a4f4ebc1-297b-4eb3-9886-120d553f18c7")
+			(uuid "94e7e7d4-7c18-4d6e-b35e-062806bfef8e")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
 					(reference "TP2")
 					(unit 1)
 				)
@@ -8677,14 +8677,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "ee4f29fb-8862-49cf-b776-3831e1cc7c33")
+			(uuid "b60ee24b-6c36-4af6-ac9b-1b9f10a24ced")
 		)
 		(pin "1"
-			(uuid "942ff2cf-1637-46ae-a770-67047a17b38f")
+			(uuid "3ac8c27a-2f56-4326-901b-28c3a8792c55")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
 					(reference "JP17")
 					(unit 1)
 				)
@@ -8899,14 +8899,14 @@
 			)
 		)
 		(pin "1"
-			(uuid "cc4813ed-7d3a-4316-8306-ecc7c5c01af5")
+			(uuid "3ea3854c-3c61-476a-9261-923abd0b868c")
 		)
 		(pin "2"
-			(uuid "df6a755c-d5d5-4176-b714-81e777d78a39")
+			(uuid "9d6cf74a-658f-404b-8f90-ac4e1f2585c7")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
 					(reference "R2")
 					(unit 1)
 				)
@@ -8923,7 +8923,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c7e5e79c-56ba-4eea-a70d-1629729d9e49")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR012"
 			(at 167.64 55.88 0)
 			(effects
 				(font
@@ -8968,12 +8968,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "baf4e900-da75-43ec-bf68-24ef8fcf334f")
+			(uuid "7fe77dfb-e977-4e4b-b08f-994d8a9e771e")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
-					(reference "#PWR019")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -8990,7 +8990,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c9bf703a-6741-44de-9cce-f6bfb59ad734")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR03"
 			(at 124.46 105.41 0)
 			(effects
 				(font
@@ -9035,12 +9035,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "f380149c-2f5b-4ee1-be4a-fcc2d3e0b0fa")
+			(uuid "140432e7-f90d-457d-9ce2-c1055259d333")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
-					(reference "#PWR012")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -9056,7 +9056,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d7b3933f-e83e-492a-8399-b1f44bbee93b")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR07"
 			(at 151.13 73.66 0)
 			(effects
 				(font
@@ -9101,12 +9101,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "0f4661b5-f81c-4485-80c2-3b4b151b8067")
+			(uuid "0e4e2df5-00e0-4af2-9511-19ebb5336039")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
-					(reference "#PWR016")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -9319,14 +9319,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "a515eb56-4f40-468e-a615-e3d6fc1d99aa")
+			(uuid "f2b9ee7d-c723-4a33-918e-eaf13e344857")
 		)
 		(pin "1"
-			(uuid "76e4b736-81ca-4983-a869-8123af1e26ce")
+			(uuid "9eaa3015-bd87-4517-8166-640914cadf90")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
 					(reference "R16")
 					(unit 1)
 				)
@@ -9542,14 +9542,14 @@
 			)
 		)
 		(pin "1"
-			(uuid "d11988a9-0b1d-4031-a375-40338165de92")
+			(uuid "f660cf78-d947-44de-bfec-da5c2e9cb7bc")
 		)
 		(pin "2"
-			(uuid "6ca4ec07-d0a3-4a68-ba5a-0310071273d8")
+			(uuid "6605a643-32cd-414e-a351-155d04e73602")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
 					(reference "R14")
 					(unit 1)
 				)
@@ -9767,50 +9767,50 @@
 			)
 		)
 		(pin "1"
-			(uuid "bc8e184c-9156-4225-a5ce-01ee2a6671e7")
+			(uuid "89492d6f-b98a-4490-8d57-f8d74e6644e2")
 		)
 		(pin "10"
-			(uuid "b0ae93d7-e0ff-4391-9bc1-76ad0a629311")
+			(uuid "6757c785-1f8c-4250-ba86-a4f4c4e08b4d")
 		)
 		(pin "11"
-			(uuid "9b95d9cc-950b-4b81-b43b-9505e32b3952")
+			(uuid "1ed30291-52ba-472b-9474-bb0a61e2d12e")
 		)
 		(pin "12"
-			(uuid "78d593ae-8dc7-4317-bb7d-3032d5cf8414")
+			(uuid "e4f0d0b5-6c42-4920-b176-ee3849aa7d8b")
 		)
 		(pin "13"
-			(uuid "52704115-36f0-47a0-916c-cd9637fbcc39")
+			(uuid "783979e8-4ef8-4da5-8f61-92857204953c")
 		)
 		(pin "14"
-			(uuid "399da3b6-4e77-4846-9c01-25850657d8af")
+			(uuid "802ac971-754c-44fb-a384-4b2b626a8b40")
 		)
 		(pin "2"
-			(uuid "eb90c542-b103-4e67-8d4b-9189930875ba")
+			(uuid "7755f322-73b4-472c-b2e3-41f717ba3c67")
 		)
 		(pin "3"
-			(uuid "b1c7df3a-10cf-4777-b1c8-9772ad75145b")
+			(uuid "102f3980-5654-446f-9391-d57fd7e8a93c")
 		)
 		(pin "4"
-			(uuid "2bb50521-9f45-4b7c-84c9-6bb28c5ccc66")
+			(uuid "73521dcc-296c-4fe5-aef2-93673844e6dc")
 		)
 		(pin "5"
-			(uuid "6aa0de22-8991-4b53-97a4-5937595a40b7")
+			(uuid "5541a15b-7c30-4270-b900-8b69ec4562b2")
 		)
 		(pin "6"
-			(uuid "9f49ca9a-65a6-43b8-9ea1-f495c1b24452")
+			(uuid "6d728afe-3d9e-434b-872b-033efef58c97")
 		)
 		(pin "7"
-			(uuid "20b3ddd7-895c-4108-a4be-9bdcd091dcdf")
+			(uuid "095b9014-8003-4534-a884-36b064bf3445")
 		)
 		(pin "8"
-			(uuid "edb7de15-a815-4206-805a-0028243d9612")
+			(uuid "a6508f30-1d10-42de-b311-7c917b9c69fb")
 		)
 		(pin "9"
-			(uuid "82bae559-5e3d-44ea-a9f8-89a83df9533f")
+			(uuid "4c41d463-d16d-410b-b676-27a5874cc57c")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
 					(reference "U2")
 					(unit 1)
 				)
@@ -9998,14 +9998,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "99159c83-10fd-4655-a6c4-05f6a6371129")
+			(uuid "330a81a8-f340-423d-9d29-7700c00d0ef3")
 		)
 		(pin "1"
-			(uuid "53e3a316-137a-4f60-a931-7c8ec42b424d")
+			(uuid "f2af3dd9-bce7-4b69-9d46-efdb37d1c688")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429"
 					(reference "C11")
 					(unit 1)
 				)

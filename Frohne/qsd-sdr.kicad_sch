@@ -7571,7 +7571,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "03391f6f-01ba-4e5a-aaec-70eb573e0bd2")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR021"
 			(at 67.31 87.63 0)
 			(effects
 				(font
@@ -7616,12 +7616,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "0ed82707-0a8b-4d2b-9d49-cff202dfc6c4")
+			(uuid "30f232cb-3d1c-4ddb-8e16-31f77e895306")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
-					(reference "#PWR06")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -7637,7 +7637,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "05277ecc-62e6-4d81-8727-31dbb5e49b30")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR028"
 			(at 140.97 62.23 0)
 			(effects
 				(font
@@ -7682,12 +7682,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "e0f766e0-70be-4bda-9350-f752df9b4882")
+			(uuid "149fc4bb-600c-47ae-a3a7-63e72d7910e1")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
-					(reference "#PWR062")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -7703,7 +7703,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0a0e01df-2755-49a5-9cf2-be74e81c13bf")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR037"
 			(at 170.18 128.27 0)
 			(effects
 				(font
@@ -7748,12 +7748,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "09a37b88-c392-40e5-8e34-8a3e8b1a4cce")
+			(uuid "35d5c85a-1f90-4c75-9cf4-0e77710dbccf")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
-					(reference "#PWR042")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -7770,7 +7770,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0d9bccee-6fe5-4b69-b6a3-c274c6168614")
-		(property "Reference" "#PWR057"
+		(property "Reference" "#PWR025"
 			(at 106.68 125.73 0)
 			(effects
 				(font
@@ -7816,12 +7816,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "4940cff8-5a28-4280-913c-d7f85e8dffb7")
+			(uuid "e0f9f10a-bd6b-407f-acef-50f900929fa5")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
-					(reference "#PWR057")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -8007,14 +8007,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "d8e8b7d1-39fc-4b3f-b416-78705a3afe3a")
+			(uuid "0d2614fa-cd62-4c3f-80e7-955abfa3308d")
 		)
 		(pin "1"
-			(uuid "f1c02b6a-9340-4af1-a569-5c7bfb61fd5d")
+			(uuid "96514a9d-51fe-480d-8250-31360d49ee1c")
 		)
 		(instances
-			(project ""
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "C16")
 					(unit 1)
 				)
@@ -8084,14 +8084,14 @@
 			)
 		)
 		(pin "1"
-			(uuid "8b84b592-a27d-44f6-80ca-eaf82d954715")
+			(uuid "a64ae98b-8340-4e0c-a572-64e15e7bccf8")
 		)
 		(pin "2"
-			(uuid "b1da6cdf-5643-49b0-84d8-45f5f840c202")
+			(uuid "abfd79b3-cae0-4435-90bc-4685a7e1b1cb")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "J11")
 					(unit 1)
 				)
@@ -8306,14 +8306,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "44f207ad-1a33-4d82-8dc1-75f5d2c7c192")
+			(uuid "f8e36f60-03d0-432d-8966-21d144ab38c2")
 		)
 		(pin "1"
-			(uuid "0bb83439-08e6-436a-8bf1-78ba6bd992e2")
+			(uuid "0e257c56-f261-4054-aa16-da9fa497e596")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "R4")
 					(unit 1)
 				)
@@ -8378,14 +8378,14 @@
 			)
 		)
 		(pin "1"
-			(uuid "c227af2d-eec8-4988-9ae7-0947d8797645")
+			(uuid "ca09bc58-cbc7-4a24-807b-1b7b3ae10e40")
 		)
 		(pin "2"
-			(uuid "776eeefa-633c-4b39-9409-539428b2ea9f")
+			(uuid "47b41df2-2395-4181-a8c6-b1a9c06d6e8c")
 		)
 		(instances
-			(project ""
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "e2")
 					(unit 1)
 				)
@@ -8457,11 +8457,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "66a76650-28e4-4142-9aa5-06c43d888b2c")
+			(uuid "fef13280-3738-4282-a30d-365676a572b0")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "TP11")
 					(unit 1)
 				)
@@ -8533,11 +8533,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "13306704-652f-4307-a305-80a4fa194a97")
+			(uuid "50594e44-77df-4dd5-b53d-0dbeabdf60ee")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "TP17")
 					(unit 1)
 				)
@@ -8554,7 +8554,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3444a7a1-3a4e-4bdf-80db-c35af4902b32")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR041"
 			(at 212.09 142.24 0)
 			(effects
 				(font
@@ -8599,12 +8599,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "c2edf9b5-1b41-49e1-bc81-71e5165191d6")
+			(uuid "da049f2a-55d6-4aa4-9ec1-f9d168ba6319")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
-					(reference "#PWR045")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -8791,14 +8791,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "211db8ba-f974-45b9-9239-4d59587a1693")
+			(uuid "6862dde6-779b-46fe-9abf-81d778854f11")
 		)
 		(pin "1"
-			(uuid "54c04132-eca1-416a-a8a6-ae0ee53f7f3c")
+			(uuid "0391fc69-a91a-456c-905d-fc1257b7e820")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "C30")
 					(unit 1)
 				)
@@ -8815,7 +8815,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37e456ba-3fde-408b-a010-0ccb73fa1d2c")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR040"
 			(at 212.09 124.46 0)
 			(effects
 				(font
@@ -8860,12 +8860,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "a9f3cd42-605b-49c1-a3c1-4cfcf2a697a6")
+			(uuid "36bfddbb-0204-4337-8842-6ea8cec4a1fb")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
-					(reference "#PWR044")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -8880,7 +8880,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "392325b3-5598-481b-b2fb-17bfb436a88c")
-		(property "Reference" "#PWR065"
+		(property "Reference" "#PWR032"
 			(at 154.94 80.01 0)
 			(effects
 				(font
@@ -8925,12 +8925,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "df154855-cac5-45f3-9894-49a80657bca7")
+			(uuid "e1adb2f5-68c9-4989-b9a6-b159bd69bae0")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
-					(reference "#PWR065")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -8998,44 +8998,44 @@
 			)
 		)
 		(pin "2"
-			(uuid "25334cdf-fa61-46f8-8b9a-16b56e69e82b")
+			(uuid "2206773d-99c9-4191-a116-1d2068f1c2b2")
 		)
 		(pin "14"
-			(uuid "53bdf558-e487-4435-9e11-a779707b8422")
+			(uuid "38c83af8-4761-41c8-9dfc-cbc8e3f7f29a")
 		)
 		(pin "1"
-			(uuid "c19e1b5e-fa33-4b1e-aa22-6212d8c5e2f0")
+			(uuid "18c88723-b5db-4eab-add2-435ef7c395fe")
 		)
 		(pin "11"
-			(uuid "7fcf3049-c899-418a-b328-214645e6e6a8")
+			(uuid "8a1e0561-7965-496e-ac8f-e6ffbd3aeacb")
 		)
 		(pin "16"
-			(uuid "2471dc77-9c81-4cf3-bb62-605ea478c2b3")
+			(uuid "0a40623e-dc91-4ecb-a050-5effb0d43761")
 		)
 		(pin "3"
-			(uuid "12b13527-648b-462e-b814-406a5cbf0ae6")
+			(uuid "2989991c-b221-4592-a811-7ec3c0841ded")
 		)
 		(pin "15"
-			(uuid "009ada15-6001-4f5a-b21d-4af7827ec890")
+			(uuid "057186f4-f08a-493b-9681-ff889eb99906")
 		)
 		(pin "8"
-			(uuid "f637bb1c-5c81-4a82-9d3d-8d4068a17ffa")
+			(uuid "68a4248e-aaf4-4d6e-8dd9-d7128b817424")
 		)
 		(pin "7"
-			(uuid "7b8cebe0-c700-47c9-9a91-c06ac3347254")
+			(uuid "7ba8cdae-5135-4a18-a268-ad0b4d062a8b")
 		)
 		(pin "6"
-			(uuid "5067102f-ffc3-49db-89e4-45912c3e6bc8")
+			(uuid "f8ff0140-e89e-48d6-98a9-e8afd2558505")
 		)
 		(pin "10"
-			(uuid "e5bf475d-ab6a-4c8f-9d88-2118c6774fab")
+			(uuid "09d67aaf-644c-4100-80c9-169436d82668")
 		)
 		(pin "9"
-			(uuid "4b0ef31d-f744-4994-95fc-db3299980311")
+			(uuid "de13baed-e848-448c-89f5-a52b9d0d9387")
 		)
 		(instances
-			(project ""
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "TR1")
 					(unit 1)
 				)
@@ -9250,14 +9250,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "e8095c44-6a7f-40c3-9c16-9b3e5d338761")
+			(uuid "b040dbe0-2393-496c-8600-f29a40afac1c")
 		)
 		(pin "1"
-			(uuid "94a0045b-bb8c-403c-a174-2584dfc64971")
+			(uuid "9c7cf206-c399-4a69-bbf5-8b5efd693eba")
 		)
 		(instances
-			(project ""
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "R8")
 					(unit 1)
 				)
@@ -9442,14 +9442,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "43c49f11-4b1d-47fd-80c8-d8da5158c74b")
+			(uuid "b8517724-bef1-4c17-84e3-a2e44110f3bc")
 		)
 		(pin "1"
-			(uuid "acae3e27-1e1d-4b0b-a7a4-c21acbb9ad60")
+			(uuid "e4d50d63-b046-4af1-92b4-8379d4274055")
 		)
 		(instances
-			(project ""
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "C32")
 					(unit 1)
 				)
@@ -9665,14 +9665,14 @@
 			)
 		)
 		(pin "1"
-			(uuid "6e9a361a-44c1-439c-bef8-dbc588e6ef57")
+			(uuid "74768ed1-5732-4630-b993-0afaba0a23ee")
 		)
 		(pin "2"
-			(uuid "3132ff19-5d0c-4102-b059-4de0583ff644")
+			(uuid "6aa1b509-8d9e-4f49-aae6-b44f9e2201b7")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "R30")
 					(unit 1)
 				)
@@ -9689,7 +9689,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3e80f516-c547-4e9f-8d66-68a78ce9d945")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR022"
 			(at 67.31 96.52 0)
 			(effects
 				(font
@@ -9734,12 +9734,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "46fbf3f8-1b75-4b76-a204-3767c9b13a29")
+			(uuid "193a2a6c-3934-485d-8531-c7c2b1600cf6")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
-					(reference "#PWR060")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -9925,14 +9925,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "b76e9ff9-1d4c-4384-bd73-110634accb59")
+			(uuid "2098751e-ea4f-47e8-a956-54933f7d6d58")
 		)
 		(pin "1"
-			(uuid "c951c00d-56e9-4350-b230-9cd2696ee299")
+			(uuid "b0296d10-9fd6-40cf-8e4b-626ec424218e")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "C19")
 					(unit 1)
 				)
@@ -9949,7 +9949,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "45a9b499-c015-4811-97cf-443d9f2ad433")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR030"
 			(at 147.32 128.27 0)
 			(effects
 				(font
@@ -9994,12 +9994,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "51344b60-af1a-4bdf-a583-ce27b925a444")
+			(uuid "f2961555-5d03-475b-8f55-b804dafdd76b")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
-					(reference "#PWR039")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -10212,14 +10212,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "4452f43d-7a5e-4bb3-ac00-bafa7a8ae2c6")
+			(uuid "76b4f905-b8f1-4773-af8b-86e6f3523018")
 		)
 		(pin "1"
-			(uuid "e1db55af-8646-4d62-8166-f2229d2eaf08")
+			(uuid "22e95f90-dcd2-4db3-9005-cd4f7f00b91a")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "R13")
 					(unit 1)
 				)
@@ -10407,14 +10407,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "b2195bc5-64df-45d6-a3b1-6a9104a6f417")
+			(uuid "fbe39fe0-23a5-411e-ad04-37741f0f628b")
 		)
 		(pin "1"
-			(uuid "c561ca79-18ec-48f6-8aa1-4dcf8f561b7b")
+			(uuid "91de91b4-e9a6-431b-b288-f2ee17719888")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "C34")
 					(unit 1)
 				)
@@ -10431,7 +10431,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4b8ab0e9-f04a-45b3-9d7e-2bded5c39411")
-		(property "Reference" "#PWR068"
+		(property "Reference" "#PWR042"
 			(at 232.41 134.62 0)
 			(effects
 				(font
@@ -10476,12 +10476,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "c848c203-735f-42e0-a530-9380acfd0387")
+			(uuid "ee2466ae-e0b1-4563-a554-c2f250024ac7")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
-					(reference "#PWR068")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -10552,14 +10552,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "ed10b1ec-aad3-479f-8c3e-bf8ae47f152c")
+			(uuid "cbb81e00-ef01-453c-8eca-35ad7a2cfbe2")
 		)
 		(pin "1"
-			(uuid "5bc5b156-34ce-4c8f-918a-b8e62b23745f")
+			(uuid "57fd96b0-8fa8-42ac-aada-7d723f86ab7c")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "JP86")
 					(unit 1)
 				)
@@ -10576,7 +10576,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "51a792d4-d36f-4129-9c81-1d593e032ba6")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR039"
 			(at 201.93 134.62 0)
 			(effects
 				(font
@@ -10621,12 +10621,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "e5505532-8d8f-4a9c-a4df-bb7eb972b509")
+			(uuid "92117ef3-e528-4f9b-b64c-878c45991fc2")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
-					(reference "#PWR043")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -10699,14 +10699,14 @@
 			)
 		)
 		(pin "1"
-			(uuid "93565241-d669-454f-8716-9dfa16262332")
+			(uuid "c0bf6dbb-cc0f-4352-9e52-c31fc1cd404d")
 		)
 		(pin "2"
-			(uuid "5deb90ea-e805-411f-b3ce-79256d9bf0b8")
+			(uuid "a42a3b69-c9ce-421b-9d7f-7651f8d88ab2")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "JP88")
 					(unit 1)
 				)
@@ -10787,17 +10787,17 @@
 			)
 		)
 		(pin "R"
-			(uuid "28be87af-f84b-4947-ae9c-3cf243505401")
+			(uuid "62167db0-c7a2-4491-b7d5-e0ea174ead9b")
 		)
 		(pin "S"
-			(uuid "d4980df6-efa1-4e27-9433-88dcc9bc26e5")
+			(uuid "07ed872c-b9f8-4a2b-8536-197498edbe12")
 		)
 		(pin "T"
-			(uuid "e61b2c6a-384e-4f04-b5d7-0a190664c969")
+			(uuid "87cd38d5-900b-40e5-8ecb-5f5adef7290c")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "J12")
 					(unit 1)
 				)
@@ -10869,11 +10869,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "7e6c7a24-7a66-4495-903a-5f8a52be7f0d")
+			(uuid "5a86cd01-ecd9-4cb6-b010-5d6c0ed9ce0f")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "TP14")
 					(unit 1)
 				)
@@ -11062,14 +11062,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "bfcbb567-3a3a-47ac-aba7-ee8c73c25554")
+			(uuid "21f421cc-922f-4f99-87a5-13b9158a8f4e")
 		)
 		(pin "1"
-			(uuid "528b3c04-dd39-4de4-a179-d4e8dd030878")
+			(uuid "51ca662e-4a58-4eb2-9b78-3ac21b58a554")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "C20")
 					(unit 1)
 				)
@@ -11254,14 +11254,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "f4a7c001-abfe-4bff-b1d8-ec89c2504a1a")
+			(uuid "e671b447-c682-4439-a6cc-f86ef27f5bd3")
 		)
 		(pin "1"
-			(uuid "6ed1e594-b641-4099-b318-e987c2c0593f")
+			(uuid "717011c7-c945-457d-9ae7-0947847d7601")
 		)
 		(instances
-			(project ""
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "C21")
 					(unit 1)
 				)
@@ -11279,7 +11279,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "68fa0e69-0693-45c7-9b22-343b5b004010")
-		(property "Reference" "#PWR058"
+		(property "Reference" "#PWR026"
 			(at 114.3 125.73 0)
 			(effects
 				(font
@@ -11325,12 +11325,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "ae62b499-b68a-499f-9cc4-2b5edcd6143e")
+			(uuid "bea8c535-c402-4d70-8b15-ed38160bf4db")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
-					(reference "#PWR058")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -11431,7 +11431,7 @@
 			(uuid "27a605f2-2252-4357-87d9-970a564519e2")
 		)
 		(pin "8"
-			(uuid "61ad7687-0930-438d-a759-fa02c124c3db")
+			(uuid "a06df0cd-739b-4255-b641-54c526421fc8")
 		)
 		(pin "2"
 			(uuid "b82c7040-0420-409a-9d89-c9c458f3cee3")
@@ -11449,11 +11449,11 @@
 			(uuid "be791bd2-9d9d-495b-9107-1afcd4c246e0")
 		)
 		(pin "4"
-			(uuid "38ea3f10-b906-4cea-b081-82a559a8d8d3")
+			(uuid "fafea872-4a27-427a-9b9c-f3cb4d0c3177")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "U5")
 					(unit 3)
 				)
@@ -11640,14 +11640,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "d52ea501-9b1b-450e-8f2c-49c01d662271")
+			(uuid "0b4e400b-a85a-439a-9a9a-0082cc903d9b")
 		)
 		(pin "1"
-			(uuid "37f10d7b-0f0e-4d31-b6ee-c281428e94eb")
+			(uuid "ae517f7e-1f63-4cf7-84b7-b1787d5bbbb4")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "C22")
 					(unit 1)
 				)
@@ -11718,11 +11718,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "78a7eef5-5471-48b3-9eb5-4c952460a0c3")
+			(uuid "785b5c5f-0751-4eb5-9246-154f18bdd6b1")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "TP7")
 					(unit 1)
 				)
@@ -11739,7 +11739,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7663326e-80c9-4a35-a7ae-49f154b4e746")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR027"
 			(at 129.54 113.03 0)
 			(effects
 				(font
@@ -11784,12 +11784,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "7cb6f79b-c20a-4c66-8c3c-29efae7a3734")
+			(uuid "38f49111-11ee-4b7f-a0eb-888784a1db6b")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
-					(reference "#PWR047")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -11884,56 +11884,56 @@
 			)
 		)
 		(pin "1"
-			(uuid "83e49711-eacf-4847-b6e8-1fee96cc7317")
+			(uuid "b2379659-e691-4772-9856-b0d9ee3dc773")
 		)
 		(pin "10"
-			(uuid "def9ebc8-65aa-4a66-bfb1-633afacf1a9f")
+			(uuid "8c2496a5-24d3-468b-8495-d9f861583169")
 		)
 		(pin "11"
-			(uuid "c0da6be7-68db-4dd1-b7ed-4bdc198ca3a8")
+			(uuid "92df6fdf-db7e-410c-8dd5-f6a78cdb83f2")
 		)
 		(pin "12"
-			(uuid "bdd060ce-baf3-49dd-9b62-ce55aea243f1")
+			(uuid "9ea5618a-e17d-4e10-a4a5-f3de18c249ba")
 		)
 		(pin "13"
-			(uuid "e8431b00-84a6-49d7-a2d4-f3ae242bc521")
+			(uuid "578756e9-ea16-4442-8075-adc03acdc906")
 		)
 		(pin "14"
-			(uuid "f04c1cfa-cc8f-4c83-8b0f-0c68f0edbb25")
+			(uuid "6efb21c9-fab0-4152-8a4d-43f8e64988e8")
 		)
 		(pin "15"
-			(uuid "6f3b2c7b-8279-45b6-95f9-28954f244928")
+			(uuid "bc72b323-2025-4f89-87ca-f4bbe4ae56ec")
 		)
 		(pin "16"
-			(uuid "835321a6-c8e8-439b-ace7-9a283ac10272")
+			(uuid "4d8aab01-7209-491f-812d-788b854028c3")
 		)
 		(pin "2"
-			(uuid "7898fd85-0bd6-4f1b-8e7f-ea532d70406a")
+			(uuid "3b48ba8b-c937-4bed-b5fd-49bd7813f776")
 		)
 		(pin "3"
-			(uuid "cc53a495-bed1-4021-a08b-e256a1561d4e")
+			(uuid "8ced8bdb-0cea-401b-8955-78fd75d0dcba")
 		)
 		(pin "4"
-			(uuid "ac419690-80c2-4d5e-bc29-3edd3e451b41")
+			(uuid "c143bb8c-ce47-45d9-9da3-56c6a87e3c93")
 		)
 		(pin "5"
-			(uuid "00ef1456-1d74-4906-99cf-d7a5b195fccd")
+			(uuid "33ccfae5-525e-40ad-b4a1-ae0160b613d8")
 		)
 		(pin "6"
-			(uuid "394fa4a5-7bfa-4f15-9fd8-d6061d997ef9")
+			(uuid "17575bfb-d73d-47ad-84e5-dbed11d88523")
 		)
 		(pin "7"
-			(uuid "5d5a7fec-8aea-4da8-aed1-3cc7002e5645")
+			(uuid "3e9036b9-1d87-4742-b8a7-08149ad1acfc")
 		)
 		(pin "8"
-			(uuid "bc6e7116-1805-46f9-95c1-58a769f3d893")
+			(uuid "aaca40db-9a4d-45ff-933d-2596f35821c4")
 		)
 		(pin "9"
-			(uuid "9e04786d-97d6-4a33-b9c5-bb0180ebcf5b")
+			(uuid "5a5dfeb7-7cec-4bca-bc13-cfe037c44cac")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "U7")
 					(unit 1)
 				)
@@ -12149,14 +12149,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "3689f571-d0c7-4267-a8d5-2fb1255f773b")
+			(uuid "db890614-816d-4f1e-a80d-62189dbd6afd")
 		)
 		(pin "1"
-			(uuid "b93e6cad-9c9d-4d60-bb7c-bb1dd757d33c")
+			(uuid "2d837a17-92a7-40ab-9dbc-cdac28b44414")
 		)
 		(instances
-			(project ""
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "R10")
 					(unit 1)
 				)
@@ -12237,20 +12237,20 @@
 			)
 		)
 		(pin "4"
-			(uuid "c835ad79-c723-4b57-9663-0a1d947ecda1")
+			(uuid "a733a80f-c5f5-4114-8e33-591de533f58d")
 		)
 		(pin "3"
-			(uuid "77ab00e6-8bd9-44ad-8cd0-13da66154ea7")
+			(uuid "b0cb894b-5da7-4a32-96cb-5c9cbd708274")
 		)
 		(pin "2"
-			(uuid "9e216aa9-dc5a-4440-b476-95315ed97967")
+			(uuid "bb629941-5080-4595-9a13-77eea4939b28")
 		)
 		(pin "1"
-			(uuid "d5ccaa61-2d49-48d6-9eda-6cccdff755b8")
+			(uuid "aa3eaa99-27e6-42c3-8784-f784d220eb02")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "Je3")
 					(unit 1)
 				)
@@ -12448,14 +12448,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "978e987b-322f-4a8e-b1ee-4628fbde28b2")
+			(uuid "bd762442-c4d4-4adc-9ceb-d5f01671bde7")
 		)
 		(pin "1"
-			(uuid "73526d78-f69b-49b4-a4f0-b0e98fcd5338")
+			(uuid "1718964e-07f9-4fcc-ba23-c88d25a74035")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "FB3")
 					(unit 1)
 				)
@@ -12639,14 +12639,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "e0ec8da8-0066-406a-8243-816564125b7d")
+			(uuid "11cd85f1-b660-4804-9bc1-39927017f43e")
 		)
 		(pin "1"
-			(uuid "e80e9ab8-114d-426f-938f-0ddf8cd3e441")
+			(uuid "26f154c8-aa86-40df-aa4b-eae63da4cfa6")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "C18")
 					(unit 1)
 				)
@@ -12663,7 +12663,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "87bfd643-cd69-4ebe-a3f3-ed3f7699fdb7")
-		(property "Reference" "#PWR056"
+		(property "Reference" "#PWR018"
 			(at 40.64 100.33 0)
 			(effects
 				(font
@@ -12708,12 +12708,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "3812fd41-baeb-496f-9c27-8921da80b718")
+			(uuid "c8f3923f-e0c4-4b48-8fee-bb9cad86da05")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
-					(reference "#PWR056")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -12927,14 +12927,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "a13f9468-4be6-4419-be29-6224ce7be315")
+			(uuid "4bd88d40-e5a9-44fd-a0b6-e90ef7a2e66b")
 		)
 		(pin "1"
-			(uuid "43edfea9-b532-49e1-8933-9ecc06cd3f85")
+			(uuid "1d3d6064-426c-428a-8350-392a08508438")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "R11")
 					(unit 1)
 				)
@@ -13005,11 +13005,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "7db604ed-1c39-486b-a3fd-515732d5762f")
+			(uuid "073aaa2d-2d0f-4abe-b4c0-70c42936a59f")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "TP6")
 					(unit 1)
 				)
@@ -13026,7 +13026,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "95564c8b-73cf-4a28-8a01-30a785a75e87")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR019"
 			(at 48.26 83.82 0)
 			(effects
 				(font
@@ -13071,12 +13071,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "4e0414ee-a224-489a-9af7-54b46772242c")
+			(uuid "50bd36fa-4e9e-4144-ad70-cbf45039d47e")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
-					(reference "#PWR05")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -13177,7 +13177,7 @@
 			(uuid "cf92a949-94f7-4d8f-a12f-919b903a8a3e")
 		)
 		(pin "2"
-			(uuid "cdbc5814-3170-4c53-ac74-09c32ae72224")
+			(uuid "febb0112-feff-4693-8368-cadb23cc183a")
 		)
 		(pin "5"
 			(uuid "a28008b3-906c-41f8-af62-e6618082a108")
@@ -13186,17 +13186,17 @@
 			(uuid "45dac808-155c-4095-a12e-2bd995c59443")
 		)
 		(pin "3"
-			(uuid "2f4881d1-446e-4384-b281-1d0766b98674")
+			(uuid "a4668786-c3b8-415b-ba70-7dd57d9db019")
 		)
 		(pin "1"
-			(uuid "48b08efe-e9aa-4659-8a80-d91647bf786a")
+			(uuid "ace81631-ecdf-4ea3-80d5-e266ebd7c3d5")
 		)
 		(pin "4"
 			(uuid "13730ffe-f91d-4364-bacf-3c6501b10676")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "U5")
 					(unit 1)
 				)
@@ -13383,14 +13383,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "ed0aacf6-50f6-4fd8-b931-07b3e3ad65e4")
+			(uuid "0df5920c-a74d-4059-8aa7-64edc853905a")
 		)
 		(pin "1"
-			(uuid "10438b82-6636-4d75-b807-9225cbeb1e26")
+			(uuid "9f78348a-e13b-49fe-864c-2f1c7b51968c")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "C25")
 					(unit 1)
 				)
@@ -13407,7 +13407,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9f134b61-0d9e-4d5d-bd60-f30397f2c76b")
-		(property "Reference" "#FLG04"
+		(property "Reference" "#FLG01"
 			(at 244.475 120.65 0)
 			(effects
 				(font
@@ -13453,12 +13453,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "90fde38b-8df8-47a4-84ac-293c67e98ef8")
+			(uuid "f5fd8296-f89d-4251-800a-aa923c221e1d")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
-					(reference "#FLG04")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
+					(reference "#FLG01")
 					(unit 1)
 				)
 			)
@@ -13474,7 +13474,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9fc34ca5-f7b0-4b1b-ad5f-310aa05b0088")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR045"
 			(at 250.19 91.44 0)
 			(effects
 				(font
@@ -13519,12 +13519,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "d8352715-f90b-4bf6-8146-74c71203fe3d")
+			(uuid "79205bd8-1417-49ba-a17a-1b3282f8c997")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
-					(reference "#PWR071")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -13540,7 +13540,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a20c126a-3324-4e65-b819-3929f123d0bb")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR035"
 			(at 162.56 128.27 0)
 			(effects
 				(font
@@ -13585,12 +13585,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "4a8595e1-5281-4454-9c8b-457a4f126c05")
+			(uuid "99c04f97-7401-42a3-9267-7359d8e5c8a5")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
-					(reference "#PWR041")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -13606,7 +13606,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a5794bb7-d880-4829-baff-2b09261ac4e5")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR034"
 			(at 160.02 113.03 0)
 			(effects
 				(font
@@ -13651,12 +13651,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "08635221-0da4-46db-9ec3-119ffcfd5efb")
+			(uuid "1dd3c685-19c9-4825-9ea2-12372f084cb3")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
-					(reference "#PWR09")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -13672,7 +13672,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a8106300-f418-4edb-9078-939f945fca46")
-		(property "Reference" "#PWR053"
+		(property "Reference" "#PWR017"
 			(at 21.59 87.63 0)
 			(effects
 				(font
@@ -13717,12 +13717,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "4471baf6-4669-4211-82fd-3cb0782e95ca")
+			(uuid "371411ea-2195-482d-a32c-00673e02daf6")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
-					(reference "#PWR053")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -13738,7 +13738,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a91a2bec-6d9c-4730-82a1-cccdd6dc37a1")
-		(property "Reference" "#PWR049"
+		(property "Reference" "#PWR023"
 			(at 80.01 116.84 0)
 			(effects
 				(font
@@ -13783,12 +13783,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "d2bf9153-97ae-4ef4-b72b-29437a613bab")
+			(uuid "9e386353-b839-4a06-830b-e49f23b04f51")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
-					(reference "#PWR049")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -13803,7 +13803,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bc49eedd-6181-4799-a879-64abdac28063")
-		(property "Reference" "#PWR059"
+		(property "Reference" "#PWR024"
 			(at 101.6 109.22 0)
 			(effects
 				(font
@@ -13848,12 +13848,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "e201b241-9dfa-42d1-91f2-7e9b23b613f0")
+			(uuid "3922f3c4-34be-4b8e-8510-153ac8ac78a8")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
-					(reference "#PWR059")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -14038,14 +14038,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "261189cd-cbce-495b-a856-e76d87d9aeab")
+			(uuid "c406405a-3f1e-4d3d-a140-3461992319a3")
 		)
 		(pin "1"
-			(uuid "cfcaf3a7-e07c-4dbb-9f66-53f084b619d5")
+			(uuid "57458b78-03c5-4afc-91ef-c1f3e540e71e")
 		)
 		(instances
-			(project ""
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "C1")
 					(unit 1)
 				)
@@ -14062,7 +14062,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c0a94435-46e1-4488-ad0b-3093cd4f23b2")
-		(property "Reference" "#PWR069"
+		(property "Reference" "#PWR043"
 			(at 242.57 124.46 0)
 			(effects
 				(font
@@ -14107,12 +14107,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "48233a95-1e70-4e6c-9bf9-ff4ec29ef018")
+			(uuid "0bc93ab6-921a-4931-97ba-16911c1f70ca")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
-					(reference "#PWR069")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -14184,11 +14184,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "f4d82c97-3149-4d07-9d21-53cbc7da4258")
+			(uuid "3f2f6bd2-f01f-4178-9d14-062b44579231")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "TP10")
 					(unit 1)
 				)
@@ -14261,11 +14261,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "b74730eb-65a0-44c8-8cb1-e27d88a805b4")
+			(uuid "d3bd60a0-6c87-4297-b51a-c32462a449a1")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "TP12")
 					(unit 1)
 				)
@@ -14452,14 +14452,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "a8390fd6-f320-41f6-a9d7-beaa16e27e3a")
+			(uuid "fac95d86-2579-4ec3-9d92-19a043bbe887")
 		)
 		(pin "1"
-			(uuid "81fa09bc-6328-4132-9d8b-944e9f7a690a")
+			(uuid "fc48d001-8b19-4b48-a94d-9ad76baa3424")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "C14")
 					(unit 1)
 				)
@@ -14475,7 +14475,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cbfcec75-9e8e-418a-b43f-bef312c64396")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR020"
 			(at 64.77 74.93 0)
 			(effects
 				(font
@@ -14520,12 +14520,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "5f3a3dcb-8319-45a4-b952-4eece2f2ad80")
+			(uuid "9a818909-5d7d-4ffa-a1d4-29da616280f3")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
-					(reference "#PWR07")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -14626,7 +14626,7 @@
 			(uuid "cf92a949-94f7-4d8f-a12f-919b903a8a3f")
 		)
 		(pin "2"
-			(uuid "b82c7040-0420-409a-9d89-c9c458f3cee1")
+			(uuid "79821ebe-f76e-4abb-a89b-762aa1ef0be4")
 		)
 		(pin "5"
 			(uuid "a28008b3-906c-41f8-af62-e6618082a109")
@@ -14635,17 +14635,17 @@
 			(uuid "45dac808-155c-4095-a12e-2bd995c59444")
 		)
 		(pin "3"
-			(uuid "83a45660-1d0f-4cb4-8b43-b4f4dabddf53")
+			(uuid "3de03889-ec20-4447-b3f5-fff9aba00108")
 		)
 		(pin "1"
-			(uuid "be791bd2-9d9d-495b-9107-1afcd4c246de")
+			(uuid "422c8374-183a-4397-8b21-5911f3c9f435")
 		)
 		(pin "4"
 			(uuid "13730ffe-f91d-4364-bacf-3c6501b10677")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "U8")
 					(unit 1)
 				)
@@ -14716,11 +14716,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "044156e4-1d54-439f-b992-b92be0052cc6")
+			(uuid "398b6f9e-a055-4da6-9d97-6e8de88daa06")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "TP16")
 					(unit 1)
 				)
@@ -14934,14 +14934,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "fae5cd41-7866-44ae-89a5-885bee3852fa")
+			(uuid "56615277-a394-4728-8961-0a44b633e147")
 		)
 		(pin "1"
-			(uuid "0d0e0f6d-3a5e-4c6e-a730-6c66d9d56673")
+			(uuid "620650c2-94af-4ff0-b866-36458948d941")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "R12")
 					(unit 1)
 				)
@@ -15128,14 +15128,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "5ce06c51-e10b-4dfd-ae85-0c1f16334d1a")
+			(uuid "59e613ba-3a11-4b3f-b2ff-a8aaab95c655")
 		)
 		(pin "1"
-			(uuid "82fa5cd7-2616-49f7-9add-3539bfd1f0f1")
+			(uuid "2b236a3c-eec4-438b-8c62-ae19f08ced16")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "C26")
 					(unit 1)
 				)
@@ -15321,14 +15321,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "68d5767a-1f50-4c36-8bdc-1d8c42da8f1d")
+			(uuid "6a45e49f-da9d-4447-9b92-2bce97703487")
 		)
 		(pin "1"
-			(uuid "52c523b7-ed54-4d34-8d98-0bcc1a085f26")
+			(uuid "f7f43592-953a-4527-adfd-983cd7e53f47")
 		)
 		(instances
-			(project ""
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "C29")
 					(unit 1)
 				)
@@ -15345,7 +15345,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d749af6e-9310-46af-9f8c-dcc321d98b48")
-		(property "Reference" "#PWR063"
+		(property "Reference" "#PWR029"
 			(at 144.78 113.03 0)
 			(effects
 				(font
@@ -15390,12 +15390,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "0701ae6f-8819-4d7f-b96c-4550ac47865c")
+			(uuid "31e71eb6-135b-45a6-9f13-844f0451faf3")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
-					(reference "#PWR063")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -15578,14 +15578,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "6bf7b22e-c0bb-48a6-875c-aa24b0c921e2")
+			(uuid "5b6d2443-32fa-450e-814a-a1326903d1d6")
 		)
 		(pin "1"
-			(uuid "735e75eb-c4d1-4040-9c9d-90cee88b817d")
+			(uuid "05e4f435-d1b8-435c-ac12-8a96637e368a")
 		)
 		(instances
-			(project ""
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "C28")
 					(unit 1)
 				)
@@ -15772,14 +15772,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "1496adca-2d14-4aa9-9ef8-3d9ba708f000")
+			(uuid "611a152f-ab10-4a5b-b51a-f5b2e2fd7896")
 		)
 		(pin "1"
-			(uuid "ea6eb6e4-8738-4d2d-8444-e2499528d1ef")
+			(uuid "a59074d1-e3de-4c3a-a895-725bbc14aca8")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "C24")
 					(unit 1)
 				)
@@ -15876,7 +15876,7 @@
 			)
 		)
 		(pin "6"
-			(uuid "27a605f2-2252-4357-87d9-970a564519e3")
+			(uuid "2f014ddb-0c6b-44ce-be3e-3b4b62e47d7e")
 		)
 		(pin "8"
 			(uuid "cf92a949-94f7-4d8f-a12f-919b903a8a40")
@@ -15885,10 +15885,10 @@
 			(uuid "b82c7040-0420-409a-9d89-c9c458f3cee2")
 		)
 		(pin "5"
-			(uuid "a28008b3-906c-41f8-af62-e6618082a10b")
+			(uuid "2aff32ca-be1f-489e-bd31-25412919f863")
 		)
 		(pin "7"
-			(uuid "45dac808-155c-4095-a12e-2bd995c59446")
+			(uuid "f830d65c-6719-4e01-bc78-029896842674")
 		)
 		(pin "3"
 			(uuid "83a45660-1d0f-4cb4-8b43-b4f4dabddf54")
@@ -15900,8 +15900,8 @@
 			(uuid "13730ffe-f91d-4364-bacf-3c6501b10678")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "U8")
 					(unit 2)
 				)
@@ -15918,7 +15918,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dedcf6ad-d002-4a55-89de-f096cc251b22")
-		(property "Reference" "#PWR070"
+		(property "Reference" "#PWR044"
 			(at 242.57 142.24 0)
 			(effects
 				(font
@@ -15963,12 +15963,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "efb545b0-06ce-48e2-a724-a8be0c61ef3a")
+			(uuid "c1a6c16c-d4ad-4b63-82f9-d281988f1cbb")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
-					(reference "#PWR070")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -16182,14 +16182,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "66e18d57-4087-49ca-8398-b36ef4cd615e")
+			(uuid "79a524f9-0e23-4efc-a917-2195585e9455")
 		)
 		(pin "1"
-			(uuid "6bbe2550-69f1-4c7f-a55b-98e5cdad4b37")
+			(uuid "f8dc2fc8-43f0-4842-abe3-779d03963b64")
 		)
 		(instances
-			(project ""
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "R1")
 					(unit 1)
 				)
@@ -16261,14 +16261,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "200b5fca-a247-45f9-9be2-bff853787784")
+			(uuid "49334421-f969-46b4-adaf-c459305c0eae")
 		)
 		(pin "1"
-			(uuid "be9acea4-8ba5-4dfa-9ab0-c985d5df6914")
+			(uuid "fb7b05d7-6da7-4e7f-b5c8-fbf3c230954c")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "JP1")
 					(unit 1)
 				)
@@ -16370,7 +16370,7 @@
 			(uuid "27a605f2-2252-4357-87d9-970a564519e4")
 		)
 		(pin "8"
-			(uuid "cf92a949-94f7-4d8f-a12f-919b903a8a41")
+			(uuid "89f4690c-6e32-4978-91ec-be4570f5c057")
 		)
 		(pin "2"
 			(uuid "b82c7040-0420-409a-9d89-c9c458f3cee4")
@@ -16388,11 +16388,11 @@
 			(uuid "be791bd2-9d9d-495b-9107-1afcd4c246e1")
 		)
 		(pin "4"
-			(uuid "13730ffe-f91d-4364-bacf-3c6501b10679")
+			(uuid "de3ca6d3-5d5c-4133-a1b0-2336d28a7043")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "U8")
 					(unit 3)
 				)
@@ -16409,7 +16409,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eb5348b6-0c02-4ce2-880f-997f0ee0970a")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR036"
 			(at 167.64 113.03 0)
 			(effects
 				(font
@@ -16454,12 +16454,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "c4a4a967-24a5-415b-9225-d8030cebffda")
+			(uuid "0f71942c-e542-4715-a7e8-f6656698244a")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
-					(reference "#PWR024")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -16475,7 +16475,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eef1caa7-4944-40d3-bd17-b37c4dd29bfe")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR033"
 			(at 154.94 128.27 0)
 			(effects
 				(font
@@ -16520,12 +16520,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "cec27026-a0ba-4656-a38e-a8a91c16faf4")
+			(uuid "f6ab49ae-0b3d-488b-a4a9-d8e02d08770d")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
-					(reference "#PWR040")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -16712,14 +16712,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "8f2bc97d-ad0e-4ac2-8511-72f20304fd3c")
+			(uuid "7d23f5d4-1ad6-418d-a523-3e3a5d880c93")
 		)
 		(pin "1"
-			(uuid "9a3630bc-0b45-40c0-b28c-7b97c289e7b9")
+			(uuid "25e2547a-c051-4a86-b92c-9e818b714c44")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "C23")
 					(unit 1)
 				)
@@ -16907,14 +16907,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "5b821f3d-8a27-48c7-80d3-75c76c550d8b")
+			(uuid "a421bb93-4d81-4c76-8979-93be9b33c0d5")
 		)
 		(pin "1"
-			(uuid "c2727a1c-eb9d-40b2-9007-4762d67ba1ca")
+			(uuid "a2064a6d-8942-4a0b-9ccc-d70656467e99")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "C31")
 					(unit 1)
 				)
@@ -17102,14 +17102,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "bd6c3191-e7ad-4c4d-8e03-97b363d1ac90")
+			(uuid "c458e3eb-ebce-45b3-9617-7cac49056054")
 		)
 		(pin "1"
-			(uuid "4165134d-f5f7-4275-8034-0dcaf6d1503d")
+			(uuid "cd5033e8-3416-4da3-a70b-a0d3378fe16d")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "C33")
 					(unit 1)
 				)
@@ -17181,11 +17181,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "ad63959f-737e-4df7-b151-e8a3f79e37df")
+			(uuid "7fb2b1f2-75b4-4325-a495-4771b13af309")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "TP18")
 					(unit 1)
 				)
@@ -17202,7 +17202,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fa511296-2dbc-459a-8264-49cea5c2adf6")
-		(property "Reference" "#PWR064"
+		(property "Reference" "#PWR031"
 			(at 152.4 113.03 0)
 			(effects
 				(font
@@ -17247,12 +17247,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "099563f6-4022-4e62-abb9-11afdc07fb2d")
+			(uuid "e00016a3-e64d-4e08-a87b-65996b1a781e")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
-					(reference "#PWR064")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -17348,7 +17348,7 @@
 			)
 		)
 		(pin "6"
-			(uuid "b06a978b-5e23-46b5-9fad-e3ecbd211909")
+			(uuid "cf2148f6-c65c-49c5-be95-93b76b9fbd10")
 		)
 		(pin "8"
 			(uuid "cf92a949-94f7-4d8f-a12f-919b903a8a42")
@@ -17357,10 +17357,10 @@
 			(uuid "b82c7040-0420-409a-9d89-c9c458f3cee5")
 		)
 		(pin "5"
-			(uuid "cf2771ff-160c-4aac-945b-1877a7de9309")
+			(uuid "f62ee541-a65c-404e-924e-95bffd7d5c4c")
 		)
 		(pin "7"
-			(uuid "3a74e8e0-ebd2-4bd3-bba1-69e5a57bc819")
+			(uuid "4061c5c4-ec51-4797-b9d2-253973cdd099")
 		)
 		(pin "3"
 			(uuid "83a45660-1d0f-4cb4-8b43-b4f4dabddf57")
@@ -17372,8 +17372,8 @@
 			(uuid "13730ffe-f91d-4364-bacf-3c6501b1067a")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "U5")
 					(unit 2)
 				)
@@ -17588,14 +17588,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "3bac4f97-6e01-4fdd-b134-2dbfeead75db")
+			(uuid "a4fb8cce-43fa-4485-b7c1-4f1980fef2e6")
 		)
 		(pin "1"
-			(uuid "dc3e7207-e015-4ad3-8547-32247a001234")
+			(uuid "2fbd4234-4e8b-4aa1-a212-0c791510ddd7")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "R9")
 					(unit 1)
 				)
@@ -17612,7 +17612,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "feca8d92-45f8-4e10-b1f7-5465192457db")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR038"
 			(at 190.5 142.24 0)
 			(effects
 				(font
@@ -17657,12 +17657,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "4d3d7a79-a3de-4791-9051-2293cf1ad7e4")
+			(uuid "b985c4f1-9c9c-4c73-9019-7401384f9327")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
-					(reference "#PWR048")
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -17848,14 +17848,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "0fca5c6a-8bd5-490c-b51c-adb2d82e2802")
+			(uuid "f1753155-cb79-45b2-b3e9-1fe35366a4bc")
 		)
 		(pin "1"
-			(uuid "9f1dac67-32ab-45b7-9d80-a4f8f51dafe0")
+			(uuid "dc5bc83e-dd42-4e25-83c0-29b84abe21c6")
 		)
 		(instances
-			(project "PCM1808_Sound_Card"
-				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/92dd9c1d-6abe-4fcc-9674-073b26b9f8e4"
+			(project "Frohne"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554"
 					(reference "C27")
 					(unit 1)
 				)
