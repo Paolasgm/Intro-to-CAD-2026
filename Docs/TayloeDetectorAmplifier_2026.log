@@ -1,0 +1,29 @@
+Circuit: * Z:\home\frohro\Classes\Intro to Engineering\PCM1808_Sound_Card\Docs\TayloeDetectorAmplifier_2026.asc
+
+Limiting rise time of source v1 to 2.52525e-08
+Limiting fall time of source v1 to 2.52525e-08
+Limiting rise time of source v2 to 2.52525e-08
+Limiting fall time of source v2 to 2.52525e-08
+Limiting rise time of source v6 to 2.52525e-08
+Limiting fall time of source v6 to 2.52525e-08
+Limiting rise time of source v7 to 2.52525e-08
+Limiting fall time of source v7 to 2.52525e-08
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Jan 15 17:00:01 2026
+Total elapsed time: 14.324 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 865353
+traniter = 865350
+tranpoints = 223810
+accept = 174961
+rejected = 48849
+matrix size = 30
+fillins = 10
+solver = Normal
+Avg thread counts: 1.0/1.0/1.0/1.0
+Matrix Compiler1:     117 opcodes  1.4/[1.2]/2.1
+Matrix Compiler2: off
