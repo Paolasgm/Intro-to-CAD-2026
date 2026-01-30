@@ -4446,7 +4446,7 @@
 			(uuid "0cbd651c-f6dd-4e08-b26c-cdfe3fbb8cee")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "TP1")
 					(unit 1)
@@ -4512,7 +4512,7 @@
 			(uuid "7f323e23-a53c-4efa-ba68-b5af2174af98")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "#PWR023")
 					(unit 1)
@@ -4733,7 +4733,7 @@
 			(uuid "173d9881-6eb5-4570-8ecd-f91ae3095ef8")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "R22")
 					(unit 1)
@@ -4823,7 +4823,7 @@
 			(uuid "a040d489-5459-4e2e-b420-92ae3e42a4bb")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "J1")
 					(unit 1)
@@ -4889,7 +4889,7 @@
 			(uuid "7c6a5184-522e-4fc1-bd6d-b1774930a71b")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "#PWR014")
 					(unit 1)
@@ -4970,7 +4970,7 @@
 			(uuid "d761da0a-29a4-4fe5-bfc4-24b8a5593fe7")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "JP19")
 					(unit 1)
@@ -5036,7 +5036,7 @@
 			(uuid "85ecde1a-d533-49c4-9bc0-666600f5ae24")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "#PWR01")
 					(unit 1)
@@ -5231,7 +5231,7 @@
 			(uuid "e9d4df72-5b8f-4376-b8be-29e0ea2b736c")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "C13")
 					(unit 1)
@@ -5453,7 +5453,7 @@
 			(uuid "8b4588aa-b5a0-442a-8d3a-340f9fe46a5f")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "R3")
 					(unit 1)
@@ -5674,7 +5674,7 @@
 			(uuid "babdf4e5-d14b-4ab6-8c5a-c3a2c9b77060")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "R18")
 					(unit 1)
@@ -5879,7 +5879,7 @@
 			(uuid "de56dcd0-a7ba-4cbc-8281-99c2be07e0ba")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project ""
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "C44")
 					(unit 1)
@@ -6075,7 +6075,7 @@
 			(uuid "44105373-3b47-4f18-a28b-432c011d9f93")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project ""
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "C6")
 					(unit 1)
@@ -6141,7 +6141,7 @@
 			(uuid "ca2b302c-e504-4c23-8219-f5edf103c28e")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "#PWR017")
 					(unit 1)
@@ -6362,7 +6362,7 @@
 			(uuid "31dfe35b-fc4f-4f7c-8209-23ff4b0c8a56")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "R19")
 					(unit 1)
@@ -6427,7 +6427,7 @@
 			(uuid "d98fa4b3-9663-485b-9273-6c9bf492e19c")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "#PWR022")
 					(unit 1)
@@ -6493,7 +6493,7 @@
 			(uuid "d562fa81-ebd1-49a0-b954-5805baee296d")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "#PWR015")
 					(unit 1)
@@ -6698,7 +6698,7 @@
 			(uuid "1540fb87-18e3-484a-9dbd-e7b9940fd392")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "C9")
 					(unit 1)
@@ -6765,7 +6765,7 @@
 			(uuid "5f11b752-24bc-41fa-aba7-b0a180e2d4a9")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "#PWR04")
 					(unit 1)
@@ -6830,7 +6830,7 @@
 			(uuid "daed71f1-a594-44f4-8448-d6f7ac03f433")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "#PWR02")
 					(unit 1)
@@ -7051,7 +7051,7 @@
 			(uuid "6d5efe5a-8921-4307-8c8c-c7ec686bc7cd")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "R17")
 					(unit 1)
@@ -7256,7 +7256,7 @@
 			(uuid "64ae4d01-c4bc-4472-be92-cd904e36dd5d")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "C8")
 					(unit 1)
@@ -7337,7 +7337,7 @@
 			(uuid "e7978e0e-e854-476c-b58b-25713b60d630")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "JP18")
 					(unit 1)
@@ -7403,7 +7403,7 @@
 			(uuid "06309d27-50be-403a-bbc4-f8baf9b1def7")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "#PWR020")
 					(unit 1)
@@ -7468,7 +7468,7 @@
 			(uuid "83a50baf-a137-45e7-9903-b3accf59bc5c")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "#PWR08")
 					(unit 1)
@@ -7663,7 +7663,7 @@
 			(uuid "6e7bc73f-8f07-4d49-9898-a973f60e3ff7")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "C10")
 					(unit 1)
@@ -7729,7 +7729,7 @@
 			(uuid "fb627099-3967-4262-a55e-d7c4fa56c595")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "#PWR018")
 					(unit 1)
@@ -7814,7 +7814,7 @@
 			(uuid "a1360862-2e86-4fe4-9086-4569176db117")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project ""
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "X2")
 					(unit 1)
@@ -7880,7 +7880,7 @@
 			(uuid "0e1385ac-2092-47b2-b574-6652951ce28c")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "#PWR013")
 					(unit 1)
@@ -8072,7 +8072,7 @@
 			(uuid "e46aed2f-0198-45b0-bed6-3540dd75c763")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "C3")
 					(unit 1)
@@ -8264,7 +8264,7 @@
 			(uuid "6aad5c82-305e-49ef-8597-db75702f4b2f")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "C4")
 					(unit 1)
@@ -8331,7 +8331,7 @@
 			(uuid "a8122270-08e2-46f5-adc7-065630732e85")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "#PWR011")
 					(unit 1)
@@ -8527,7 +8527,7 @@
 			(uuid "07cc88f8-751d-44ce-bad1-ba4454d860d2")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "C7")
 					(unit 1)
@@ -8604,7 +8604,7 @@
 			(uuid "a4f4ebc1-297b-4eb3-9886-120d553f18c7")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "TP2")
 					(unit 1)
@@ -8683,7 +8683,7 @@
 			(uuid "942ff2cf-1637-46ae-a770-67047a17b38f")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "JP17")
 					(unit 1)
@@ -8905,7 +8905,7 @@
 			(uuid "df6a755c-d5d5-4176-b714-81e777d78a39")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project ""
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "R2")
 					(unit 1)
@@ -8971,7 +8971,7 @@
 			(uuid "baf4e900-da75-43ec-bf68-24ef8fcf334f")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "#PWR019")
 					(unit 1)
@@ -9038,7 +9038,7 @@
 			(uuid "f380149c-2f5b-4ee1-be4a-fcc2d3e0b0fa")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "#PWR012")
 					(unit 1)
@@ -9104,7 +9104,7 @@
 			(uuid "0f4661b5-f81c-4485-80c2-3b4b151b8067")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "#PWR016")
 					(unit 1)
@@ -9325,7 +9325,7 @@
 			(uuid "76e4b736-81ca-4983-a869-8123af1e26ce")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "R16")
 					(unit 1)
@@ -9548,7 +9548,7 @@
 			(uuid "6ca4ec07-d0a3-4a68-ba5a-0310071273d8")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project ""
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "R14")
 					(unit 1)
@@ -9809,7 +9809,7 @@
 			(uuid "82bae559-5e3d-44ea-a9f8-89a83df9533f")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "U2")
 					(unit 1)
@@ -10004,7 +10004,7 @@
 			(uuid "53e3a316-137a-4f60-a931-7c8ec42b424d")
 		)
 		(instances
-			(project "Intro-to-CAD-2026"
+			(project "PCM1808_Sound_Card"
 				(path "/04b4b624-9c46-4205-aa19-e3356b229b17/58bffccf-78a9-420a-b783-106f2192f85c"
 					(reference "C11")
 					(unit 1)
