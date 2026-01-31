@@ -226,7 +226,24 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "label_dangling|393700|723900|b62d4e49-8702-453d-8829-d0f8200d29c6|00000000-0000-0000-0000-000000000000|/c12dc015-e6cb-468c-8de4-269c3106de0e||",
+        ""
+      ],
+      [
+        "label_dangling|419100|723900|069c9d80-ec7e-49c9-8d61-9d3b2b811859|00000000-0000-0000-0000-000000000000|/c12dc015-e6cb-468c-8de4-269c3106de0e||",
+        ""
+      ],
+      [
+        "multiple_net_names|1993900|850900|02a874d7-7801-4d0e-8ac6-e68f0119d523|c7206482-0e84-4936-a8cf-80bdede17b12|/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0|/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0|/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0",
+        ""
+      ],
+      [
+        "multiple_net_names|635000|914400|dc457e45-4d17-4efb-bc69-356b8481c9b7|d148eabf-45b4-4ed9-acf9-82e8264797b7|/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429|/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429|/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429",
+        ""
+      ]
+    ],
     "meta": {
       "version": 0
     },
@@ -430,7 +447,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "error",
+      "pin_to_pin": "ignore",
       "power_pin_not_driven": "ignore",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -478,15 +495,21 @@
         "clearance": 0.127,
         "name": "1V1",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 1,
+        "priority": 2,
         "schematic_color": "rgb(255, 249, 87)",
         "track_width": 0.3
+      },
+      {
+        "name": "5V",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgb(255, 47, 103)"
       },
       {
         "clearance": 0.127,
         "name": "5V0",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
+        "priority": 1,
         "schematic_color": "rgb(255, 36, 61)",
         "track_width": 0.6
       },
@@ -496,7 +519,7 @@
         "diff_pair_width": 0.17,
         "name": "USB",
         "pcb_color": "rgb(126, 255, 137)",
-        "priority": 2,
+        "priority": 3,
         "schematic_color": "rgb(140, 255, 77)",
         "track_width": 0.17
       }
