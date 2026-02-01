@@ -543,6 +543,9 @@
       "Net-(C42-Pad1)": [
         "5V"
       ],
+      "Net-(J10-Pin_2)": [
+        "5V"
+      ],
       "Net-(J3-Pin_1)": [
         "5V"
       ],
@@ -1205,6 +1208,14 @@
     [
       "ed44bed7-549c-4a19-9507-4d924c35e7b0",
       "Raspberry_Pi_Pico"
+    ],
+    [
+      "483699fc-423f-4ea3-8184-654c25c5d0a3",
+      "DAC"
+    ],
+    [
+      "1bf8039c-3ec8-4592-8d3c-78300c63b601",
+      "CMOS Oscillator"
     ]
   ],
   "text_variables": {}
