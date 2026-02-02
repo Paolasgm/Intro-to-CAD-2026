@@ -1547,7 +1547,7 @@
 		)
 		(uuid "01bdccd1-c283-4bae-b79c-7660ce48ce93")
 	)
-	(hierarchical_label "CLK1"
+	(hierarchical_label "CLK_N"
 		(shape output)
 		(at 165.1 113.03 0)
 		(effects
@@ -1569,7 +1569,7 @@
 		)
 		(uuid "5ac837f4-6639-4b6a-9038-cb9674e3dfa8")
 	)
-	(hierarchical_label "CLK0"
+	(hierarchical_label "CLK_P"
 		(shape output)
 		(at 165.1 107.95 0)
 		(effects
