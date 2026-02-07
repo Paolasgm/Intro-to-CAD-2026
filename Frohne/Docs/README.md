@@ -27,4 +27,6 @@ This receiver is a high-performance Direct Conversion SDR utilizing a **Quadratu
 ## 6. Digital Interface
 *   **ADC:** **PCM1808** 24-bit Sigma-Delta converter operating in **Master Mode**.
 *   **MCU:** **Raspberry Pi Pico** operating as an **I2S Slave**. Data is captured via PIO state machines and streamed over USB or WiFi (UDP) for processing.
+*   **DAC:**  **CJC4334H** a 24 bit DAC with a line level output.
+*   
 
