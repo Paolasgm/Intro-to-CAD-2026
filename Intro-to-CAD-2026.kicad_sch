@@ -5620,7 +5620,7 @@
 			)
 		)
 		(instances
-			(project "Frohne"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e"
 					(page "2")
 				)
@@ -5692,7 +5692,7 @@
 			)
 		)
 		(instances
-			(project "Frohne"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e"
 					(page "8")
 				)
@@ -5774,7 +5774,7 @@
 			)
 		)
 		(instances
-			(project "Frohne"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e"
 					(page "7")
 				)
@@ -5876,7 +5876,7 @@
 			)
 		)
 		(instances
-			(project "Frohne"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e"
 					(page "4")
 				)
@@ -5958,7 +5958,7 @@
 			)
 		)
 		(instances
-			(project "Frohne"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e"
 					(page "3")
 				)
@@ -6000,7 +6000,7 @@
 			)
 		)
 		(instances
-			(project "Frohne"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e"
 					(page "5")
 				)
@@ -6032,7 +6032,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "../raspberry_pi_pico.kicad_sch"
+		(property "Sheetfile" "raspberry_pi_pico.kicad_sch"
 			(at 57.15 69.1646 0)
 			(effects
 				(font
@@ -6332,7 +6332,7 @@
 			)
 		)
 		(instances
-			(project "Frohne"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e"
 					(page "6")
 				)
