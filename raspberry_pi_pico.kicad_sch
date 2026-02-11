@@ -11214,7 +11214,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "S1")
 					(unit 1)
@@ -11300,7 +11300,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP24")
 					(unit 1)
@@ -11386,7 +11386,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP51")
 					(unit 1)
@@ -11460,7 +11460,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "#PWR0109")
 					(unit 1)
@@ -11546,7 +11546,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP54")
 					(unit 1)
@@ -11632,7 +11632,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP63")
 					(unit 1)
@@ -11718,7 +11718,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP34")
 					(unit 1)
@@ -11792,7 +11792,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "#PWR076")
 					(unit 1)
@@ -11865,7 +11865,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "#PWR0104")
 					(unit 1)
@@ -11951,7 +11951,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP77")
 					(unit 1)
@@ -12037,7 +12037,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP79")
 					(unit 1)
@@ -12123,7 +12123,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP49")
 					(unit 1)
@@ -12209,7 +12209,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP65")
 					(unit 1)
@@ -12283,7 +12283,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "#PWR0120")
 					(unit 1)
@@ -12356,7 +12356,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "#FLG09")
 					(unit 1)
@@ -12442,7 +12442,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP42")
 					(unit 1)
@@ -12528,7 +12528,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP28")
 					(unit 1)
@@ -12733,7 +12733,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "U3")
 					(unit 1)
@@ -12817,7 +12817,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP50")
 					(unit 1)
@@ -12891,7 +12891,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "#PWR0101")
 					(unit 1)
@@ -12977,7 +12977,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP58")
 					(unit 1)
@@ -13063,7 +13063,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP44")
 					(unit 1)
@@ -13136,7 +13136,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "#FLG07")
 					(unit 1)
@@ -13209,7 +13209,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "#FLG0101")
 					(unit 1)
@@ -13282,7 +13282,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "#PWR0102")
 					(unit 1)
@@ -13368,7 +13368,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP47")
 					(unit 1)
@@ -13454,7 +13454,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP38")
 					(unit 1)
@@ -13528,7 +13528,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "#PWR0107")
 					(unit 1)
@@ -13614,7 +13614,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP36")
 					(unit 1)
@@ -13700,7 +13700,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP33")
 					(unit 1)
@@ -13786,7 +13786,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP74")
 					(unit 1)
@@ -13872,7 +13872,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP83")
 					(unit 1)
@@ -13945,7 +13945,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "#PWR0122")
 					(unit 1)
@@ -14019,7 +14019,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "#PWR0121")
 					(unit 1)
@@ -14105,7 +14105,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP72")
 					(unit 1)
@@ -14178,7 +14178,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "#PWR0103")
 					(unit 1)
@@ -14264,7 +14264,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP26")
 					(unit 1)
@@ -14350,7 +14350,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP70")
 					(unit 1)
@@ -14436,7 +14436,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP66")
 					(unit 1)
@@ -14522,7 +14522,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP22")
 					(unit 1)
@@ -14593,7 +14593,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "J7")
 					(unit 1)
@@ -14803,7 +14803,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "C39")
 					(unit 1)
@@ -14889,7 +14889,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP62")
 					(unit 1)
@@ -14962,7 +14962,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "#FLG010")
 					(unit 1)
@@ -15048,7 +15048,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP73")
 					(unit 1)
@@ -15134,7 +15134,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP29")
 					(unit 1)
@@ -15220,7 +15220,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP71")
 					(unit 1)
@@ -15306,7 +15306,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP60")
 					(unit 1)
@@ -15379,7 +15379,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "#PWR0105")
 					(unit 1)
@@ -15465,7 +15465,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP53")
 					(unit 1)
@@ -15551,7 +15551,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP39")
 					(unit 1)
@@ -15685,7 +15685,7 @@
 			(uuid "9d601789-a378-47ba-acfa-181b8c173145")
 		)
 		(instances
-			(project "Frohne"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "J4")
 					(unit 1)
@@ -15771,7 +15771,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP57")
 					(unit 1)
@@ -15857,7 +15857,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP59")
 					(unit 1)
@@ -15943,7 +15943,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP48")
 					(unit 1)
@@ -16029,7 +16029,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP75")
 					(unit 1)
@@ -16115,7 +16115,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP20")
 					(unit 1)
@@ -16188,7 +16188,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "#PWR075")
 					(unit 1)
@@ -16274,7 +16274,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP31")
 					(unit 1)
@@ -16360,7 +16360,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP46")
 					(unit 1)
@@ -16446,7 +16446,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP37")
 					(unit 1)
@@ -16532,7 +16532,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP61")
 					(unit 1)
@@ -16618,7 +16618,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP67")
 					(unit 1)
@@ -16704,7 +16704,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP80")
 					(unit 1)
@@ -16790,7 +16790,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP45")
 					(unit 1)
@@ -16863,7 +16863,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "#FLG06")
 					(unit 1)
@@ -16949,7 +16949,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP82")
 					(unit 1)
@@ -17157,7 +17157,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "J2")
 					(unit 1)
@@ -17243,7 +17243,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP55")
 					(unit 1)
@@ -17329,7 +17329,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP32")
 					(unit 1)
@@ -17537,7 +17537,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "J3")
 					(unit 1)
@@ -17623,7 +17623,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP25")
 					(unit 1)
@@ -17696,7 +17696,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "#PWR0108")
 					(unit 1)
@@ -17769,7 +17769,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "#PWR0106")
 					(unit 1)
@@ -17998,7 +17998,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "R29")
 					(unit 1)
@@ -18084,7 +18084,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP56")
 					(unit 1)
@@ -18220,7 +18220,7 @@
 			(uuid "eb383dde-f767-4a45-a747-583d4bc8ab0b")
 		)
 		(instances
-			(project ""
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "J10")
 					(unit 1)
@@ -18306,7 +18306,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP35")
 					(unit 1)
@@ -18392,7 +18392,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP41")
 					(unit 1)
@@ -18478,7 +18478,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP64")
 					(unit 1)
@@ -18564,7 +18564,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP81")
 					(unit 1)
@@ -18650,7 +18650,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP52")
 					(unit 1)
@@ -18736,7 +18736,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP40")
 					(unit 1)
@@ -18822,7 +18822,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP43")
 					(unit 1)
@@ -18908,7 +18908,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP78")
 					(unit 1)
@@ -18994,7 +18994,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP21")
 					(unit 1)
@@ -19080,7 +19080,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP76")
 					(unit 1)
@@ -19166,7 +19166,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP68")
 					(unit 1)
@@ -19252,7 +19252,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP30")
 					(unit 1)
@@ -19338,7 +19338,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP27")
 					(unit 1)
@@ -19424,7 +19424,7 @@
 					(unit 1)
 				)
 			)
-			(project "PCM1808_Sound_Card"
+			(project "Intro-to-CAD-2026"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0"
 					(reference "JP23")
 					(unit 1)

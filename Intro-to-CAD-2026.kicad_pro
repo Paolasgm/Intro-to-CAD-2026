@@ -595,6 +595,25 @@
       "Net-(FB5-Pad1)": [
         "5V0"
       ],
+      "Net-(J10-Pin_1)": [
+        "5V0"
+      ],
+      "Net-(J10-Pin_2)": [
+        "5V"
+      ],
+      "Net-(J10-Pin_5)": [
+        "1V1"
+      ],
+      "Net-(J3-Pin_1)": [
+        "5V",
+        "5V0"
+      ],
+      "Net-(J3-Pin_2)": [
+        "5V"
+      ],
+      "Net-(J3-Pin_36)": [
+        "1V1"
+      ],
       "Net-(J5-Pin_2)": [
         "5V0"
       ],
@@ -1019,32 +1038,36 @@
   },
   "sheets": [
     [
-      "04b4b624-9c46-4205-aa19-e3356b229b17",
+      "c12dc015-e6cb-468c-8de4-269c3106de0e",
       "Root"
     ],
     [
-      "58bffccf-78a9-420a-b783-106f2192f85c",
+      "0755f67c-fee2-4bb1-bfe0-4dfb08c04429",
       "PCM1808"
     ],
     [
-      "06516c79-bfe4-40ed-9cd2-382c74eaa2ba",
-      "Raspberry_Pi_Pico"
-    ],
-    [
-      "92dd9c1d-6abe-4fcc-9674-073b26b9f8e4",
+      "c5519ce3-55b4-441f-abb2-2c2467967554",
       "QSD SDR"
     ],
     [
-      "67b06689-3919-4df5-b91a-49763b999930",
+      "b449cbea-6ac3-4d49-9a88-53bfdbd18b5c",
       "Si5351a"
     ],
     [
-      "c29a019e-159a-4347-9b6d-f839692728d9",
-      "Module_Template"
+      "ed314b6d-b133-4548-ae58-2db461511a12",
+      "VDDA"
     ],
     [
-      "a84c0954-e6fc-41e6-ac67-288f95c58801",
-      "VDDA"
+      "ed44bed7-549c-4a19-9507-4d924c35e7b0",
+      "Raspberry_Pi_Pico"
+    ],
+    [
+      "483699fc-423f-4ea3-8184-654c25c5d0a3",
+      "DAC"
+    ],
+    [
+      "1bf8039c-3ec8-4592-8d3c-78300c63b601",
+      "CMOS Oscillator"
     ]
   ],
   "text_variables": {}
