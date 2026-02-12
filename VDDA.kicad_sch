@@ -4850,6 +4850,12 @@
 		(uuid "978145f9-626c-4caa-b996-5e7f632567a7")
 	)
 	(junction
+		(at 102.87 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9cef8bf3-34c5-4a4d-a50b-a8748253714e")
+	)
+	(junction
 		(at 161.29 115.57)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4967,7 +4973,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 64.77) (xy 102.87 73.66)
+			(xy 102.87 64.77) (xy 102.87 67.31)
 		)
 		(stroke
 			(width 0)
@@ -5224,6 +5230,16 @@
 			(type default)
 		)
 		(uuid "b46dd50b-7b17-48ae-a849-53787c8afb13")
+	)
+	(wire
+		(pts
+			(xy 102.87 67.31) (xy 102.87 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b980b071-943a-40fb-a844-95bec38a1591")
 	)
 	(wire
 		(pts
@@ -11246,6 +11262,73 @@
 			(project "Frohne"
 				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed314b6d-b133-4548-ae58-2db461511a12"
 					(reference "FB5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VDDA")
+		(at 102.87 67.31 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dbf75cd8-6cc6-4480-80fd-90b7a23f389b")
+		(property "Reference" "#PWR093"
+			(at 99.06 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VAH"
+			(at 106.68 67.3099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 102.87 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 102.87 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 102.87 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "07e48f6f-247c-41ee-a735-36c1cd20a709")
+		)
+		(instances
+			(project "Intro-to-CAD-2026"
+				(path "/c12dc015-e6cb-468c-8de4-269c3106de0e/ed314b6d-b133-4548-ae58-2db461511a12"
+					(reference "#PWR093")
 					(unit 1)
 				)
 			)
