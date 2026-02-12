@@ -5449,6 +5449,38 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
+		(at 210.82 113.03 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "49598a72-0d0a-40f4-95d4-9c71953b04f8")
+		(property "Netclass" "5V0"
+			(at 211.5185 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Class" ""
+			(at -80.01 8.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
 		(at 76.2 113.03 0)
 		(fields_autoplaced yes)
 		(effects

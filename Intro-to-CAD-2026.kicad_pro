@@ -260,11 +260,19 @@
         ""
       ],
       [
+        "label_dangling|393700|723900|b62d4e49-8702-453d-8829-d0f8200d29c6|00000000-0000-0000-0000-000000000000|/c12dc015-e6cb-468c-8de4-269c3106de0e||",
+        ""
+      ],
+      [
         "label_dangling|406400|558800|e58d9eab-893a-482f-add9-be0b11de02fe|00000000-0000-0000-0000-000000000000|||",
         ""
       ],
       [
         "label_dangling|406400|762000|e58d9eab-893a-482f-add9-be0b11de02fe|00000000-0000-0000-0000-000000000000|||",
+        ""
+      ],
+      [
+        "label_dangling|419100|723900|069c9d80-ec7e-49c9-8d61-9d3b2b811859|00000000-0000-0000-0000-000000000000|/c12dc015-e6cb-468c-8de4-269c3106de0e||",
         ""
       ],
       [
@@ -276,7 +284,23 @@
         ""
       ],
       [
+        "lib_symbol_issues|698500|863600|956c8dfe-819a-4573-89a9-eb78a1f7504b|00000000-0000-0000-0000-000000000000|||",
+        ""
+      ],
+      [
+        "multiple_net_names|1536700|901700|32c45ccb-dada-43e8-abb3-76dc413ec6e6|c3674b77-9cf0-43ea-94bd-75a84ae17c71|/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429|/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429|/c12dc015-e6cb-468c-8de4-269c3106de0e/0755f67c-fee2-4bb1-bfe0-4dfb08c04429",
+        ""
+      ],
+      [
+        "multiple_net_names|1993900|1104900|0cc6fcb6-5f47-4545-b4ac-9ac090ff3fc9|9eb44561-28f3-4b56-b4a5-e77d02a01e0a|/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0|/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0|/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0",
+        ""
+      ],
+      [
         "multiple_net_names|1993900|850900|10f22390-68f8-4880-bb03-17010827aa71|c7206482-0e84-4936-a8cf-80bdede17b12|||",
+        ""
+      ],
+      [
+        "pin_to_pin|1562100|723900|940d66fa-9d8d-4fa9-9522-f2418cfa4dba|3f4707b7-8977-422c-8d05-0b59855f3376|/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0|/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0|/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0",
         ""
       ],
       [
@@ -284,11 +308,35 @@
         ""
       ],
       [
+        "pin_to_pin|1739900|1422400|696d6d52-b81e-4693-b888-680e3cec8d45|c90eba41-91d9-4023-8cfd-1306a89d2e52|/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0|/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0|/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0",
+        ""
+      ],
+      [
         "pin_to_pin|1739900|1422400|696d6d52-b81e-4693-b888-680e3cec8d45|c90eba41-91d9-4023-8cfd-1306a89d2e52|||",
         ""
       ],
       [
+        "pin_to_pin|1739900|1498600|87d497f6-f55e-40ff-a990-bc61a81f4e04|02a874d7-7801-4d0e-8ac6-e68f0119d523|/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0|/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0|/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0",
+        ""
+      ],
+      [
         "pin_to_pin|1739900|1498600|87d497f6-f55e-40ff-a990-bc61a81f4e04|02a874d7-7801-4d0e-8ac6-e68f0119d523|||",
+        ""
+      ],
+      [
+        "pin_to_pin|1917700|1041400|a5230f41-6c3c-4bce-840c-95a3582cf3de|f5fd8296-f89d-4251-800a-aa923c221e1d|/c12dc015-e6cb-468c-8de4-269c3106de0e/483699fc-423f-4ea3-8184-654c25c5d0a3|/c12dc015-e6cb-468c-8de4-269c3106de0e/483699fc-423f-4ea3-8184-654c25c5d0a3|/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554",
+        ""
+      ],
+      [
+        "pin_to_pin|1917700|1333500|e8444724-a418-4049-8c81-affc32472e93|3f4707b7-8977-422c-8d05-0b59855f3376|/c12dc015-e6cb-468c-8de4-269c3106de0e/483699fc-423f-4ea3-8184-654c25c5d0a3|/c12dc015-e6cb-468c-8de4-269c3106de0e/483699fc-423f-4ea3-8184-654c25c5d0a3|/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0",
+        ""
+      ],
+      [
+        "pin_to_pin|1917700|482600|d7c9d4cf-75d6-4629-854e-0bf042d111f2|f5fd8296-f89d-4251-800a-aa923c221e1d|/c12dc015-e6cb-468c-8de4-269c3106de0e/483699fc-423f-4ea3-8184-654c25c5d0a3|/c12dc015-e6cb-468c-8de4-269c3106de0e/483699fc-423f-4ea3-8184-654c25c5d0a3|/c12dc015-e6cb-468c-8de4-269c3106de0e/c5519ce3-55b4-441f-abb2-2c2467967554",
+        ""
+      ],
+      [
+        "pin_to_pin|1917700|774700|05d29ea1-fd62-4578-8c57-424d61940ae0|3f4707b7-8977-422c-8d05-0b59855f3376|/c12dc015-e6cb-468c-8de4-269c3106de0e/483699fc-423f-4ea3-8184-654c25c5d0a3|/c12dc015-e6cb-468c-8de4-269c3106de0e/483699fc-423f-4ea3-8184-654c25c5d0a3|/c12dc015-e6cb-468c-8de4-269c3106de0e/ed44bed7-549c-4a19-9507-4d924c35e7b0",
         ""
       ],
       [
@@ -551,15 +599,22 @@
         "clearance": 0.127,
         "name": "1V1",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 1,
+        "priority": 2,
         "schematic_color": "rgb(255, 249, 87)",
         "track_width": 0.3
+      },
+      {
+        "name": "5V",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "wire_width": 24
       },
       {
         "clearance": 0.127,
         "name": "5V0",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
+        "priority": 1,
         "schematic_color": "rgb(255, 36, 61)",
         "track_width": 0.6
       },
@@ -569,9 +624,10 @@
         "diff_pair_width": 0.17,
         "name": "USB",
         "pcb_color": "rgb(126, 255, 137)",
-        "priority": 2,
+        "priority": 3,
         "schematic_color": "rgb(140, 255, 77)",
-        "track_width": 0.17
+        "track_width": 0.17,
+        "wire_width": 24
       }
     ],
     "meta": {
@@ -626,6 +682,18 @@
       "Net-(Q1-G)": [
         "5V0"
       ],
+      "Net-(Q2-E)": [
+        "5V0"
+      ],
+      "Net-(Q3-E)": [
+        "5V0"
+      ],
+      "Net-(Q4-E)": [
+        "5V0"
+      ],
+      "Net-(Q5-E)": [
+        "5V0"
+      ],
       "Net-(U1-VDD)": [
         "1V1"
       ],
@@ -639,6 +707,9 @@
         "5V0"
       ],
       "Net-(e1-EN)": [
+        "5V0"
+      ],
+      "VDDA": [
         "5V0"
       ]
     },
