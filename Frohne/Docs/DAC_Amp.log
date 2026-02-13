@@ -1,21 +1,17 @@
-Circuit: * Z:\home\frohro\Classes\Intro to Engineering\2026\Intro-to-CAD-2026\Frohne\Docs\DAC_Amp.asc
-
-Direct Newton iteration for .op point succeeded.
-
-Date: Thu Feb 12 08:13:41 2026
-Total elapsed time: 1.403 seconds.
-
+LTspice 26.0.1 for Windows
+Circuit: Z:\home\frohro\Classes\Intro to Engineering\2026\Intro-to-CAD-2026\Frohne\Docs\DAC_Amp.net
+Start Time: Thu Feb 12 13:57:57 2026
+solver = Normal
+Maximum thread count: 16
 tnom = 27
 temp = 27
-method = modified trap
-totiter = 43937
-traniter = 43930
-tranpoints = 19244
-accept = 13140
-rejected = 6104
-matrix size = 32
-fillins = 30
-solver = Normal
-Matrix Compiler1: 2.40 KB object code size  2.6/1.7/[1.1]
-Matrix Compiler2: 3.23 KB object code size  1.4/2.3/[1.2]
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 2.445 seconds.
+
+Files loaded:
+Z:\home\frohro\Classes\Intro to Engineering\2026\Intro-to-CAD-2026\Frohne\Docs\DAC_Amp.net
+C:\users\frohro\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\users\frohro\AppData\Local\LTspice\lib\cmp\standard.bjt
+Z:\home\frohro\Classes\Intro to Engineering\2026\Intro-to-CAD-2026\Frohne\Docs\OPA161x.LIB
 
